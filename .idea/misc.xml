@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/drawable/line.xml" value="0.2185" />
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/layout/activity_apply.xml" value="0.13385416666666666" />
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/layout/activity_detail.xml" value="0.213768115942029" />
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/layout/activity_invite.xml" value="0.213768115942029" />
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/layout/activity_login.xml" value="0.213768115942029" />
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/layout/activity_splash_acvtivity.xml" value="0.213768115942029" />
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/layout/contract_search.xml" value="0.213768115942029" />
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/layout/fragment_about_me.xml" value="0.213768115942029" />
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/layout/fragment_community.xml" value="0.213768115942029" />
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/layout/fragment_setting.xml" value="0.213768115942029" />
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/layout/header_fragment_contact.xml" value="0.213768115942029" />
+        <entry key="..\:/workplace/AndroidStudioProjects/IM_Android-master/app/src/main/res/layout/titlebar_fragment.xml" value="0.213768115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2578125" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
